@@ -1,6 +1,6 @@
 .container {
   font-size: 16px;
-  background-color: #f2f6ff;
+  background-color: #f9fafc;
 }
 
 .hood {
@@ -13,11 +13,10 @@
 
 .navbar p {
   text-align: center;
-
 }
 
 .titleblurb {
-  margin-top: 43px;
+margin-top: 10px;
 
 }
 
@@ -85,4 +84,12 @@
 h1 {
   margin-bottom: 20px;
   padding-bottom: 20px;
+}
+
+.well {
+  background-color: #f1fcef;
+}
+
+.nav {
+  margin-top: 10px;
 }
