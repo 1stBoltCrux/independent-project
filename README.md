@@ -7,7 +7,7 @@
 ## The purpose of this website is to familiarize the reader with information about the author. It contains information regarding the author's personal, programming and work history.
 
 * _clone the repository from github_
-* _access the url through any web browser_
+* _access site through any web browser_
 
 ## Known Bugs
 
@@ -20,6 +20,10 @@ _If you have any questions or concerns regarding this application, please feel f
 ## Technologies Used
 
 _This site uses HTML, CSS, and Bootstrap version 3.3.7_
+
+## Site URL
+
+https://1stboltcrux.github.io/independent-project/
 
 ### License
 
