@@ -1,3 +1,7 @@
+.container {
+  font-size: 16px;
+}
+
 .hood {
   height: 150px;
   max-width: 100%;
@@ -32,6 +36,30 @@
   margin-bottom: 15px;
 }
 
+.project  {
+
+}
+
+.project img {
+  max-width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  max-width: 225px;
+
+}
+
 .navbar {
   text-align: center;
+}
+
+.emph {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.fancy {
+  border: 2px solid #afb4bc;
+  border-radius: 5px;
+  background-color: #c6cad1
 }
