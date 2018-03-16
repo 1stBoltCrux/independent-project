@@ -97,7 +97,7 @@ margin-top: 10px;
 }
 
 .well {
-  background-color: #e3eff7;
+  background: linear-gradient(#dee9f7, #f9fafc);
 }
 
 .nav {
