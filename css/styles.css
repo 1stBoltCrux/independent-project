@@ -3,16 +3,30 @@
   max-width: 100%;
   margin: auto;
 }
+
 .navbar p {
   text-align: center;
 
 }
+
 .titleblurb {
   margin-top: 43px;
 
 }
 
 .aboutme img {
+  max-width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.background img {
+  max-width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.hobbies img {
   max-width: 100%;
   margin-top: 15px;
   margin-bottom: 15px;
