@@ -1,7 +1,7 @@
 .hood {
-  height: 100px;
+  height: 150px;
   max-width: 100%;
-  padding-left: 20px;
+  margin: auto;
 }
 .navbar p {
   text-align: center;
@@ -9,5 +9,15 @@
 }
 .titleblurb {
   margin-top: 43px;
-  
+
+}
+
+.aboutme img {
+  max-width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.navbar {
+  text-align: center;
 }
