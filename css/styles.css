@@ -1,11 +1,14 @@
 .container {
   font-size: 16px;
+  background-color: #f2f6ff;
 }
 
 .hood {
   height: 150px;
   max-width: 100%;
   margin: auto;
+  border: 2px solid #afb4bc;
+  border-radius: 5px;
 }
 
 .navbar p {
@@ -36,15 +39,13 @@
   margin-bottom: 15px;
 }
 
-.project  {
-
-}
-
-.project img {
+.imagealign img {
   max-width: 100%;
   margin-top: 15px;
   margin-bottom: 15px;
   max-width: 225px;
+  border: 2px solid #afb4bc;
+  border-radius: 5px;
 
 }
 
@@ -61,5 +62,27 @@
 .fancy {
   border: 2px solid #afb4bc;
   border-radius: 5px;
-  background-color: #c6cad1
+  background-color: #e3eafc;
+}
+
+.imagealign {
+  text-align: center;
+}
+.project {
+  text-align: left;
+}
+.project h2 {
+  padding-left: 5px;
+}
+.titleblurb img {
+  max-width: 200px;
+  float:right;
+  margin-left: 10px;
+  border: 2px solid #afb4bc;
+  border-radius: 5px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
